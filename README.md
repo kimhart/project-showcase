@@ -1,1 +1,1 @@
-# project-showcase
+# Static Project Showcase
