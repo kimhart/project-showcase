@@ -1,0 +1,31 @@
+body {
+	font-family: Monospace;
+	font-size:13px;
+	text-align:center;
+	background: #000000;
+	margin: 0px;
+	overflow: hidden;
+}
+
+.logo-container, .logo-background {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 100%;
+  z-index: 10;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  position: absolute;
+}
+
+.swoosh-background {
+  width: 575px;
+  height: 583px;
+  margin: 0 auto;
+}
+
+div > div {
+  display: none;
+}

@@ -1,0 +1,21 @@
+body {
+  background-color: #000000;
+  margin: 0px;
+  overflow: hidden;
+  position: relative;
+}
+
+.logo-container {
+  display: flex;
+  justify-content: center;
+  width: 100%;
+  z-index: 10;
+  top: 100px;
+  left: 0;
+  right: 0;
+  position: absolute;
+}
+
+div > div {
+  display: none;
+}
